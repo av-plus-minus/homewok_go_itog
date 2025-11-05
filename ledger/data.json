@@ -1,0 +1,7 @@
+[
+  { "category": "Обучение", "limit": 10000, "Period": "2025-10" },
+  { "category": "Пропитание", "limit": 5000, "Period": "2025-10" },
+  { "category": "Транспорт", "limit": 1000, "Period": "2025-10" },
+  { "category": "Отдых", "limit": 1000, "Period": "2025-10" },
+  { "category": "Другое", "limit": 50000, "Period": "2025-10" }
+]
